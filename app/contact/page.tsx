@@ -17,7 +17,7 @@ export default function ContactPage() {
 						</h1>
 						<p className='text-lg sm:text-xl text-gray-600 dark:text-gray-300 mb-8'>
 							Estamos aqui para ajudar. Entre em contato conosco para discutir
-							seu próximo projeto.
+							seu próximo projecto.
 						</p>
 					</div>
 				</div>
@@ -41,7 +41,7 @@ export default function ContactPage() {
 								<ContactInfo
 									icon={<Phone className='h-6 w-6 text-green-600' />}
 									title='Telefone'
-									content='+55 (11) 3456-7890'
+									content='+258 84 333 3333'
 								/>
 								<ContactInfo
 									icon={<MapPin className='h-6 w-6 text-green-600' />}
