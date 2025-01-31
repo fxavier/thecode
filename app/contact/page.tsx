@@ -58,7 +58,7 @@ export default function ContactPage() {
 							{/* <boltAction type="file" filePath="app/contact/page.tsx">              {/* Map */}
 							<div className='mt-8'>
 								<iframe
-									src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.1975870299553!2d-46.6522977!3d-23.5505199!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjPCsDMzJzAxLjkiUyA0NsKwMzknMDguMyJX!5e0!3m2!1spt-BR!2sbr!4v1635959745167!5m2!1spt-BR!2sbr'
+									src='https://www.google.com/maps/place/Maputo/@-25.8962586,32.6106835,12z/data=!3m1!4b1!4m6!3m5!1s0x1ee69723b666da55:0x42497f579a6bb442!8m2!3d-25.969248!4d32.5731746!16zL20vMGZxYnk?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D'
 									width='100%'
 									height='300'
 									style={{ border: 0 }}
