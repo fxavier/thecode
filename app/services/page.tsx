@@ -79,11 +79,11 @@ export default function ServicesPage() {
 						<ProcessStep
 							number='01'
 							title='Descoberta'
-							description='Entendemos suas necessidades e objetivos de negócio'
+							description='Entendemos suas necessidades e objectivos de negócio'
 						/>
 						<ProcessStep
 							number='02'
-							title='Planejamento'
+							title='Planeamento'
 							description='Desenvolvemos uma estratégia personalizada'
 						/>
 						<ProcessStep
@@ -94,7 +94,7 @@ export default function ServicesPage() {
 						<ProcessStep
 							number='04'
 							title='Evolução'
-							description='Monitoramos e otimizamos continuamente'
+							description='Monitoramos e optimizamos continuamente'
 						/>
 					</div>
 				</div>
