@@ -36,7 +36,7 @@ export function Navigation() {
 
 					{/* Desktop Navigation */}
 					<div className='hidden md:flex items-center space-x-8'>
-						<NavLink href='/about'>Sobre</NavLink>
+						<NavLink href='/about'>Quem Somos</NavLink>
 						<NavLink href='/services'>Serviços</NavLink>
 						<NavLink href='/portfolio'>Portfólio</NavLink>
 						<NavLink href='/blog'>Blog</NavLink>
